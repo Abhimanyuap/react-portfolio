@@ -1,0 +1,14 @@
+
+.about{
+    max-width: 70rem;
+    margin: 0 auto;
+    margin-top: 10px;
+    min-height: 100vh;
+}
+
+.aboutHeading{
+    text-align: center;
+    font-size: 2.5rem;
+    color: yellow;
+    margin-bottom: 30px;
+}
