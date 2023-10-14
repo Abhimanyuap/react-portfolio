@@ -10,7 +10,7 @@ import react from "../../assets/react-js-icon.png"
 
 const Skills = () => {
 
-    const skill = [css,tailwind, js, html, css, nextjs, react]
+    const skill = [css,tailwind, js, html, nextjs, react]
 
   return (
     <section className='skills'>

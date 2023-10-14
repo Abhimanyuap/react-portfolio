@@ -11,7 +11,7 @@ const Intro = () => {
           <span className='hello'>Hello,</span>
           <span className="introText">I'm <span className="introName">Abhimanyu Singh</span> <br /> Frontend Web Developer </span>
           <p className="introPara">I am a skilled web developer with experience in creating <br /> optimum web ui</p>
-          <Link><button className="btn"><img src={btnImg} alt="" className='btnImg'/> Hire Me </button></Link>
+          <Link ><button className="btn"><img src={btnImg} alt="" className='btnImg'/> Hire Me </button></Link>
       </div>
       <img src={bg} alt="" className='bg'/>
     </section>

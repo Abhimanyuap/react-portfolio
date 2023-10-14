@@ -33,6 +33,13 @@
 .hello{
     font-size: 1.7rem;
     font-weight: 100;
+    animation: helloanimate;
+}
+
+@keyframes helloanimate{
+    from{
+        
+    }
 }
 
 .introName{
